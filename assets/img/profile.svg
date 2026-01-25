@@ -1,0 +1,30 @@
+<!-- Profile Image Placeholder -->
+<!-- Replace this file with your actual photo (profile.jpg) -->
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background -->
+  <rect width="400" height="400" fill="#0a0e27"/>
+  
+  <!-- Circuit pattern -->
+  <line x1="0" y1="100" x2="400" y2="100" stroke="#00ff41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="200" x2="400" y2="200" stroke="#00ff41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="300" x2="400" y2="300" stroke="#00ff41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="100" y1="0" x2="100" y2="400" stroke="#00ff41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="200" y1="0" x2="200" y2="400" stroke="#00ff41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="300" y1="0" x2="300" y2="400" stroke="#00ff41" stroke-width="0.5" opacity="0.2"/>
+  
+  <!-- Profile icon -->
+  <circle cx="200" cy="150" r="50" fill="none" stroke="#00ff41" stroke-width="3"/>
+  <circle cx="200" cy="150" r="30" fill="none" stroke="#00ff41" stroke-width="2"/>
+  <path d="M 150 220 Q 200 180 250 220 L 250 250 Q 200 230 150 250 Z" fill="none" stroke="#00ff41" stroke-width="3"/>
+  
+  <!-- Text -->
+  <text x="200" y="310" font-family="Courier New" font-size="16" fill="#00ff41" text-anchor="middle" opacity="0.8">
+    CVKR
+  </text>
+  <text x="200" y="335" font-family="Courier New" font-size="12" fill="#00d9ff" text-anchor="middle" opacity="0.6">
+    Add your photo here
+  </text>
+  <text x="200" y="355" font-family="Courier New" font-size="10" fill="#64748b" text-anchor="middle" opacity="0.5">
+    Replace with profile.jpg
+  </text>
+</svg>
